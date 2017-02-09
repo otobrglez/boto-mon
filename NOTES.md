@@ -1,7 +1,10 @@
-# boto-mon
+# Notes
 
+Some personal notes for `boto-mon`.
 
 ## Install notes
+
+On Raspberry Pi,...
 
 ```bash
 pip install --user virtualenvwrapper
@@ -13,7 +16,8 @@ mkdir Python && cd Python
 ./configure
 make -j4
 sudo make install
-mkvirtualenv --python=`which python3.5`  boto-mon
+mkvirtualenv --python=`which python3.5` boto-mon
+workone boto-mon
 ```
 
 ### Remote SSH volume to Pi
