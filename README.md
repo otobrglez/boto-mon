@@ -4,6 +4,12 @@
 
 Read [NOTES.md](NOTES.md) for setup and development hints,...
 
+## Running it,...
+
+```bash
+./mon.py
+```
+
 [@otobrglez](https://github.com/otobrglez)
 
 [boto-mon]: https://github.com/otobrglez/boto-mon

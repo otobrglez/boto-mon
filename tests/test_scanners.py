@@ -1,7 +1,6 @@
 import unittest
 from scanners import ArpScanner, NmapScanner
-from json import loads, dumps
-from pprint import pprint
+from json import loads
 from os import path
 
 
