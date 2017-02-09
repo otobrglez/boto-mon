@@ -4,7 +4,7 @@
 [![License](http://img.shields.io/:license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 ![Project Status](https://img.shields.io/badge/status-beta-yellow.svg)
 
-** [boto-mon] provides real-time data stream from Raspberry Pi. **
+**[boto-mon] provides real-time data stream from Raspberry Pi.**
 
 Read [NOTES.md](NOTES.md) for setup and development hints,...
 
