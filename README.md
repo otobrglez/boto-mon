@@ -10,6 +10,13 @@ Read [NOTES.md](NOTES.md) for setup and development hints,...
 ./mon.py
 ```
 
+## Scanners
+
+- `ArpScanner` - with `arp-scan`
+- `NmapScanner` - with `nmap`
+
+## Author
+
 [@otobrglez](https://github.com/otobrglez)
 
 [boto-mon]: https://github.com/otobrglez/boto-mon
