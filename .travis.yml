@@ -1,0 +1,11 @@
+sudo: required
+language: python
+install: true
+
+
+cache:
+  directories:
+    - $HOME/.docker
+
+script:
+  - python -m unittest --failfast -vv
