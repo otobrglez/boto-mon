@@ -1,0 +1,5 @@
+picamera
+RPi.GPIO
+cffi
+numpy
+imutils

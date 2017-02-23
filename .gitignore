@@ -1,5 +1,8 @@
+opencv/
+
+./idea-x
 events/
-.env
+tmp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
